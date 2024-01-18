@@ -1,0 +1,1 @@
+SELECT * FROM trybe_hotel.users WHERE last_name IN ('Medhurst', 'Hills');
